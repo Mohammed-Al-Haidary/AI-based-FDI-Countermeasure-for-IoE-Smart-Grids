@@ -13,3 +13,5 @@ Python and MATLAB were the used programming languages. Used MATPOWER, Tensorflow
 - Simulation.m simulates the FDIA on the prepared dataset.
 - StateEstimation.m and CustomCase14.m are supporting files used by Simulation.m
 - Evaluation.py implements the detection mechanism to test the accuracy of the system.
+
+Acknowledging credits to my teammates: Abdulla Alteneiji, and Abdulla Alshamsi.
