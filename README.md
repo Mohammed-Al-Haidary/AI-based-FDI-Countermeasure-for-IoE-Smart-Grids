@@ -3,7 +3,11 @@ The codebase for an AI-Based detection system to detect False Data Injection Att
 
 Python and MATLAB were the used programming languages. Used MATPOWER, Tensorflow, Keras, and Pandas frameworks. LSTM (RNN variant) was employed to solve the time series forecasting problem.
 
-**Repository Files**
+**Documents**
+- SDP2_27_FinalReport.pdf is the detailed technical report for the project.
+- SDP2_27_Poster_A1.ppt is a poster providing a brief overview.
+
+**Code Files**
 - DataProcessing.py prepares the dataset for training.
 - Training.py and WindowGenerator.py trains the LSTM-based model using the prepared dataset.
 - Simulation.m simulates the FDIA on the prepared dataset.
